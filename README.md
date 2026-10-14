@@ -40,3 +40,4 @@ The hosted Site must be publicly accessible for an iframe on a public WordPress 
 - `dist/game.js`: game state, movement, consequences, and endings
 - `dist/encounters.js`: dialogue encounters and Nick-isms
 - `dist/assets/nick-sprite.png`: character artwork
+
